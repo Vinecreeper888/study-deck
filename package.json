@@ -1,6 +1,7 @@
 {
   "name": "studydeck",
   "version": "0.1.0",
+  "homepage":"https://github.io/vinecreeper888/study-deck",
   "private": true,
   "dependencies": {
     "@reach/router": "^1.3.4",
